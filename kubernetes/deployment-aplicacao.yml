@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
         - name: container-aplicacao
-          image: jnlucas/noticia-alura:v1
+          image: jnlucas/noticia-alura:v3
           ports: 
             - containerPort: 80
